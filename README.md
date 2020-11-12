@@ -1,2 +1,2 @@
 # poseNet-Playground
-Testing out poseNet.
+Testing out poseNet. Click [here](plegaspi.github.io) to see progress.
